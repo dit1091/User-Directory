@@ -1,7 +1,8 @@
 import React from "react";
+import "./style.css";
 
-function TBody(props) {
-  return <tbody>{props.children}</tbody>;
+function Wrapper(props) {
+  return <div className="wrapper">{props.children}</div>;
 }
 
-export default TBody;
+export default Wrapper;
