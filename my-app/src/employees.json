@@ -1,82 +1,82 @@
 [
     {
       "id": 1,
-      "firstname": "Fred",
-      "lastname": "Flinstone",
-      "title": "Engineer",
-      "department": "Development",
-      "officenum": "1.132",
-      "extension": 2605,
-      "email": "fflinstone@companyname.com"
+      "firstname": "Spongebob",
+      "lastname": "Squarepants",
+      "title": "Fry Cook",
+      "department": "Kitchen",
+      "officenum": "1.101",
+      "extension": 3448,
+      "email": "ssquarepants@bikinibottom.com"
     },
     {
       "id": 2,
-      "firstname": "Barney",
-      "lastname": "Rubble",
-      "title": "QA Specialist",
-      "department": "Development",
-      "officenum": "1.142",
-      "extension": 2606,
-      "email": "brubble@companyname.com"
+      "firstname": "Patrick",
+      "lastname": "Star",
+      "title": "Customer",
+      "department": "Dining",
+      "officenum": "1.102",
+      "extension": 3449,
+      "email": "pstar@bikinibottom.com"
     },
     {
       "id": 3,
-      "firstname": "Wilma",
-      "lastname": "Flinstone",
-      "title": "QA Specialist",
-      "department": "Development",
-      "officenum": "1.143",
-      "extension": 2607,
-      "email": "wflinstone@companyname.com"
+      "firstname": "Eugene",
+      "lastname": "Krabs",
+      "title": "Manager",
+      "department": "Management",
+      "officenum": "1.103",
+      "extension": 3350,
+      "email": "ekrabs@bikinibottom.com"
     },
     {
       "id": 4,
-      "firstname": "Betty",
-      "lastname": "Rubble",
-      "title": "Engineer",
-      "department": "Development",
-      "officenum": "1.133",
-      "extension": 2608,
-      "email": "bbrubble@companyname.com"
+      "firstname": "Squidward",
+      "lastname": "Tentacles",
+      "title": "Cashier",
+      "department": "Dining",
+      "officenum": "1.104",
+      "extension": 3351,
+      "email": "stentacles@bikinibottom.com"
     },
     {
       "id": 5,
-      "firstname": "George",
-      "lastname": "Slate",
-      "title": "Manager",
-      "department": "Development",
-      "officenum": "1.130",
-      "extension": 2601,
-      "email": "gslate@companyname.com"
+      "firstname": "Sheldon",
+      "lastname": "Plankton",
+      "title": "Janitor",
+      "department": "Operations",
+      "officenum": "1.105",
+      "extension": 3352,
+      "email": "splankton@bikinibottom.com"
     },
     {
       "id": 6,
-      "firstname": "Cosmo",
-      "lastname": "Spacely",
-      "title": "Manager",
-      "department": "Sales",
-      "officenum": "1.150",
-      "extension": 2701,
-      "email": "cspacely@companyname.com"
+      "firstname": "Pearl",
+      "lastname": "Krabs",
+      "title": "Assistant",
+      "department": "Management",
+      "officenum": "1.106",
+      "extension": 3353,
+      "email": "pkrabs@bikinibottom.com"
     },
     {
       "id": 7,
-      "firstname": "George",
-      "lastname": "Jetson",
-      "title": "Salesman",
-      "department": "Sales",
-      "officenum": "1.151",
-      "extension": 2702,
-      "email": "gjetson@companyname.com"
+      "firstname": "Sandy",
+      "lastname": "Cheeks",
+      "title": "Fry Cook",
+      "department": "Kitchen",
+      "officenum": "1.107",
+      "extension": 3354,
+      "email": "scheeks@bikinibottom.com"
     },
     {
       "id": 8,
-      "firstname": "Jane",
-      "lastname": "Jetson",
-      "title": "Salesman",
-      "department": "Sales",
-      "officenum": "1.152",
-      "extension": 2703,
-      "email": "jjetson@companyname.com"
+      "firstname": "Gary",
+      "lastname": "Squarepants",
+      "title": "Customer",
+      "department": "Dining",
+      "officenum": "1.108",
+      "extension": 3355,
+      "email": "gsquarepants@bikinibottom.com"
     }
   ]
